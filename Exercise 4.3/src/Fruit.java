@@ -4,7 +4,7 @@ public class Fruit {
 
 	
 	
-	public Fruit(String name) { //constructor with no argument
+	public Fruit(String name) { //constructor with argument
 		this.name = name;
 		System.out.println("\n" + name + " constructor is invoked");
 	}
